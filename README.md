@@ -18,9 +18,9 @@ apiKey="XXXXXXXXXXXXXXXXXXXXXXXX"
 
 
 ## Screenshots
-
-![App Screenshot](https://postimg.cc/Kkss0kYf][img]https://i.postimg.cc/Kkss0kYf/Whats-App-Image-2022-06-26-at-12-34-24-PM.jpg[/img][/u)
-
+Gallery          |  Detail Image
+:-------------------------:|:-------------------------:
+![Screenshot_20220626_133704](https://user-images.githubusercontent.com/65075246/175805720-cd556f35-ab21-4e50-ad3f-2caa12abee9f.png) |  ![Screenshot_20220626_133805](https://user-images.githubusercontent.com/65075246/175805769-0d11ce6f-443d-4731-a89e-69db5575d960.png)
 
 ## Resources
 The App is made by using this course
